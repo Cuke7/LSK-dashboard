@@ -17,7 +17,7 @@ const data = computed(() => {
     if (props.plot.series) {
         for (const serie of props.plot.series) {
             if (serie.data) {
-                if (serie.data.length > 100) {
+                if (serie.data.length > 50) {
                     serie.data.shift();
                 }
             }
