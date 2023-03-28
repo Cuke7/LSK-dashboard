@@ -30,7 +30,7 @@ import { drawer, plot1, plot2, plot3, play, data } from "../config";
 
 import ReconnectingWebSocket from "reconnecting-websocket";
 
-const rws = new ReconnectingWebSocket("ws://localhost:1880/ws/simple");
+const rws = new ReconnectingWebSocket("ws://localhost:1880/ws/dashboard");
 const socketStatus = ref(false);
 
 rws.addEventListener("open", () => {
