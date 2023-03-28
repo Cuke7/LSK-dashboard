@@ -1,42 +1,17 @@
-# Nuxt 3 Minimal Starter
+# Tableau de bord LSK
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Installation
 
-## Setup
-
-Make sure to install the dependencies:
+Clone the repository and run
 
 ```bash
-# yarn
-yarn install
-
-# npm
 npm install
-
-# pnpm
-pnpm install
 ```
 
-## Development Server
+to install dependencies.
 
-Start the development server on http://localhost:3000
+## Running the app
 
 ```bash
 npm run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
