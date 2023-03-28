@@ -1,16 +1,18 @@
 # Tableau de bord LSK
 
+![Drag Racing](./demo.png)
+
 ## Installation
 
-Clone the repository and run
+Cloner le repo and lancer
 
 ```bash
 npm install
 ```
 
-to install dependencies.
+pour installer les dépendences.
 
-## Running the app
+## Lancer l'application
 
 ```bash
 npm run dev
